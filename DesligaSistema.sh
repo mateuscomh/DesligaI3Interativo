@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+#/usr/bin/env bash
 #-----------HEADER-------------------------------------------------------------|
 # AUTOR             : Matheus Martins 3mhenrique@gmail.com
 # HOMEPAGE          : https://github.com/mateuscomh 
